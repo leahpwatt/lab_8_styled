@@ -1,0 +1,41 @@
+@font-face {
+	font-family: "Cantarell-Bold";
+	src: url(fonts/Cantarell-Bold.ttf);
+}
+
+body {
+	background-color: #264d73; 
+}
+
+ #header-wrapper {
+	background-image: url("images/womanshopping.jpg");
+	background-size: cover;
+	height: 400px;
+}
+
+h1 {
+	font-family: "Cantarell-Bold", Georgia, serif;
+	color: #ff9933;
+	text-shadow: 2px 2px 1px #000000;
+	font-size: 4em;
+	position: absolute;
+	top: 70px;
+	left: 20px;
+}
+
+#list, form, p {
+	font-family: "Cantarell-Bold", Georgia, serif;
+	list-style-type: none;
+	font-family: Georgia, serif;
+	font-size: 1.5em;
+	color: #ff9933;
+	text-align: center;
+	text-shadow: 1px 1px 0px #000000;
+}
+
+h2 {
+	font-family: "Cantarell-Bold", Georgia, serif;
+	color: #ff9933;
+	text-align: center;
+	text-shadow: 1px 1px 0px #000000;
+}
